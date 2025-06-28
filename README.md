@@ -40,12 +40,10 @@ Installation
 To run the game locally:
 
 Clone the repository or download the ZIP file:
-bash
-Copy code
+
 git clone https://github.com/sujahat59/cybersecurity-awareness-game.git
 Navigate to the project directory:
-bash
-Copy code
+
 cd cybersecurity-awareness-game
 Open the index.html file in your browser to start the game.
 
